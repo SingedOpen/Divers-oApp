@@ -9,7 +9,7 @@ import { GodzillaPage } from '../filmes/godzilla/godzilla';
 })
 export class HomePage {
 
-  paginaGodzilla = Godzillapage;
+  paginaGodzilla = GodzillaPage;
 
   constructor(public navCtrl: NavController) {
 
