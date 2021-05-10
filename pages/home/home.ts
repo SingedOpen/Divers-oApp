@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 
-import { GodzillaPage } from '../filmes/Godzilla/godzilla';
+import { GodzillaPage } from '../filmes/godzilla/godzilla';
 
 @Component({
   selector: 'page-home',
