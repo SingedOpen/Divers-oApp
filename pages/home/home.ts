@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 
 import { GodzillaPage } from '../filmes/godzilla/godzilla';
-import { ligaJusticaPage} from'../filmes/liga-justica/liga-justica';
+import { LigaJusticaPage} from'../filmes/liga-justica/liga-justica';
 
 @Component({
   selector: 'page-home',
